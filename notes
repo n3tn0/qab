@@ -1,0 +1,39 @@
+package dirs, mention arch wiki, include ? with quote from arch wiki and link to it, install licence files
+
+
+pkgname
+pkgver
+#pkgrel
+pkgdesc
+#arch
+url
+
+licence
+--checkbox
+
+depends
+optdpends
+makedepends
+--use page widget
+
+provides
+conflicts
+replaces
+
+backup
+options
+install
+changelog
+
+sources
+--no extract checkbox for each page
+--use page widget
+
+integrity
+--derive from sources
+--give confirmation and view of
+--generate list in widget
+
+
+
+
