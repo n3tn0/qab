@@ -1,0 +1,11 @@
+('/home/tn/PycharmProjects/QtPKGBUILD/build/main/out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1},
+ [('out00-PYZ.pyz', '/home/tn/PycharmProjects/QtPKGBUILD/build/main/out00-PYZ.pyz', 'PYZ'), ('_struct', '/usr/lib/python2.7/lib-dynload/_struct.so', 'EXTENSION'), ('struct', '/usr/lib/python2.7/struct.pyc', 'PYMODULE'), ('pyi_os_path', '/usr/lib/python2.7/site-packages/PyInstaller/loader/pyi_os_path.pyc', 'PYMODULE'), ('pyi_archive', '/usr/lib/python2.7/site-packages/PyInstaller/loader/pyi_archive.pyc', 'PYMODULE'), ('pyi_importers', '/usr/lib/python2.7/site-packages/PyInstaller/loader/pyi_importers.pyc', 'PYMODULE'), ('_pyi_bootstrap', '/usr/lib/python2.7/site-packages/PyInstaller/loader/_pyi_bootstrap.py', 'PYSOURCE'), ('pyi_carchive', '/usr/lib/python2.7/site-packages/PyInstaller/loader/pyi_carchive.py', 'PYSOURCE'), ('pyi_rth_qt5plugins', '/usr/lib/python2.7/site-packages/PyInstaller/loader/rthooks/pyi_rth_qt5plugins.py', 'PYSOURCE'), ('main', 'main.py', 'PYSOURCE')],
+ True,
+ None,
+ False)
