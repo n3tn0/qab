@@ -1,9 +1,0 @@
-('/home/tn/PycharmProjects/QtPKGBUILD/build/main/main',
- False,
- False,
- None,
- None,
- [],
- None,
- False,
- 1434956062)
